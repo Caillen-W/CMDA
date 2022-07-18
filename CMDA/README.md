@@ -29,14 +29,6 @@ Specify the paths of the checkpoint, and run the multi-scale test scripts `eval_
 python eval_mst.py
 ```
 
-### Tricks
-
-1. Multi-round training can improve the effectiveness of this approach.
-   
-2. Rare class sampling can alleviate the problem of imbalanced classes
-
-3. Incorporating spatial prior knowledge needs to adjust parameters for different architecture.
-
 ## Acknowledgements
 
 This project is based on the following paper. We thank their
