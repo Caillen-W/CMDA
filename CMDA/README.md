@@ -18,7 +18,7 @@ python gen_pl_plc_sp.py --cfg config/gen_pl_plc_sp.yml --best_iter 0000
 The GPU memory should be large enough to fit batch size 4. Then run the code
 
 ```bash
-python train_padv.py --cfg config/train_GTA2Cityscapes.yml
+python train.py --cfg config/train_GTA2Cityscapes.yml
 ```
 
 ### Evaluation
