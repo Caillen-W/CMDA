@@ -1,0 +1,3 @@
+SOURCE: GTA
+DATA_DIRECTORY: ../dataset/gta5_deeplab
+DATA_LIST_PATH: ../dataset/gta5_list/train.txt

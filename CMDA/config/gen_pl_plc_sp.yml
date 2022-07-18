@@ -1,0 +1,4 @@
+DATA_DIRECTORY_TARGET: ../dataset/Cityscapes
+DATA_LIST_PATH_TARGET: ../dataset/cityscapes_list/train.txt
+BATCH_SIZE: 1
+NUM_WORKERS: 0
